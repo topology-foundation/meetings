@@ -10,7 +10,7 @@ Research topics walkthrough; [slides](./research-slides.pdf)
 #### Engineering update
 ##### What has been done
 - Mark has joined as a full-time developer. Welcome!
-- Database (Pebble) has integrated.
+- Database (Pebble) has been integrated.
 - `gram` has become configurable using JSON file.
 
 ##### What’s on our plate
