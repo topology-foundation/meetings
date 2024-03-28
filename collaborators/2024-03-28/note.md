@@ -8,4 +8,13 @@ Attendees: Kunho Kim, guiltygyoza, Jihoon Song, Mark Khomutskii, Giwook Han, Mug
 Research topics walkthrough; [slides](./research-slides.pdf)
 
 #### Engineering update
+##### What has been done
+- Mark has joined as a full-time developer. Welcome!
+- Database (Pebble) has integrated.
+- `gram` has become configurable using JSON file.
 
+##### What’s on our plate
+- Working on attaching gRPC server to `gram`.
+- Working on hosting our own bootstrap node.
+- Working on setting up local testing environment.
+- Will work on adding Live Object using Protocol Buffers.
