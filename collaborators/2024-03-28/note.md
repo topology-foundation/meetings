@@ -4,7 +4,7 @@ Attendees: kunho kim, guiltygyoza, jihoon song, mark khomutckii, giwook han, mug
 
 ### Summary
 #### Research update
-Research topics walkthrough; (slides)[./research-slides.pdf]
+Research topics walkthrough; [slides](./research-slides.pdf)
 
 #### Engineering update
 
