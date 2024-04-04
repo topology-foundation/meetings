@@ -5,6 +5,12 @@ Attendees: Kunho Kim, guiltygyoza, Jihoon Song, Mark Khomutskii, Giwook Han, Mug
 
 ### Summary
 #### Research update
+- CRDT experiments
+  - implemented & tested infinite-phase set in go
+  - working on 1-D multiplayer space
+- Consensus & compaction protocol
+  - preparing to prototype algorithms in go.
+- For details, check out the [slides](./research-slides.pdf)
 
 #### Engineering update
 ##### What we're working on
