@@ -11,6 +11,7 @@ Attendees: Kunho Kim, guiltygyoza, Jihoon Song, Mark Khomutskii, Giwook Han, Mug
 - Consensus & compaction protocol
   - preparing to prototype algorithms in go.
 - For details, check out the [slides](./research-slides.pdf)
+- Research topics and deliverable descriptions for protocol research phase 1 are listed [here](https://hackmd.io/@YKfDHwJERJOpgEiKJZ0UkQ/HJZlCXpkA). Contribution welcome!
 
 #### Engineering update
 ##### What we're working on
