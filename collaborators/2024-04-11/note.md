@@ -8,15 +8,12 @@ Attendees: Kunho Kim, guiltygyoza, Jihoon Song, Mark Khomutskii, Giwook Han, Mug
 For current research topics and imminent action items, see [this note](https://hackmd.io/@YKfDHwJERJOpgEiKJZ0UkQ/BkdTXQ-xA).
 
 #### Engineering update
-##### What we're working on
-- Adding RPC server running over HTTP.
-- Making gram robust and adding more features like RPC router.
-- Integrating `Wasmer`.
-
-##### What we'll work on
-- Open endpoints for incoming messages of creating and executing Live Object.
-- Use Protocol Buffers for peer-to-peer communication.
-- Integrating Wasmer.
-- Set up our own bootstrap node.
+### What we’ve done
+- Add RPC server running over HTTP.
 - Refactor `gram` to propagate error appropriately.
-- Refactor HTTP router to handle different requests.
+- Research on how CosmWasm works in details.
+
+### What we're working on
+- Add logger.
+- Set up our own bootstrap node.
+- Implement our WASM based VM.
