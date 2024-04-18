@@ -1,7 +1,7 @@
 ## Collaborator call note
 Call date & time: Apr 18, 2024, 11:00-11:45 UTC
 
-Attendees: Kunho Kim, guiltygyoza, Jihoon Song, Mark Khomutskii, Giwook Han, Mugen, Jay Oak.
+Attendees: Kunho Kim, guiltygyoza, Jihoon Song, Mark Khomutskii, Giwook Han, Mugen, Jay Oak, Gregory Edison
 
 ### Summary
 #### Research update
@@ -15,11 +15,11 @@ Talks given at [AA Summit](https://aaworlds.com/). Slides:
 
 #### Engineering update
 ### What we’ve done
-- Add RPC server running over HTTP.
-- Refactor `gram` to propagate error appropriately.
-- Research on how CosmWasm works in details.
+- Add logger.
+- Research on Rust vs Go. ([slides](./Engineering_2024-04-18.pdf) and [doc](./Engineering_Rust_vs_Go.pdf))
 
 ### What we're working on
-- Add logger.
+- Migrate from Go to Rust.
+- Integrate `Wasmer` in Rust.
+- Use Protocol Buffers for peer-to-peer communication.
 - Set up our own bootstrap node.
-- Implement our WASM based VM.
