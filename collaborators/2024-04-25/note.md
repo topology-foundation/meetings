@@ -20,12 +20,14 @@ Action items:
 - Coordinate with the engineering side on hash graph layer protocols in May.
 
 #### Engineering update
+[Engineering Weekly](./Engineering_Weekly_2024-04-25.pdf)
+
 ### What we’ve done
-- Add logger.
-- Research on Rust vs Go. ([slides](./Engineering_2024-04-18.pdf) and [doc](./Engineering_Rust_vs_Go.pdf))
+- Use Protocol Buffers for peer-to-peer communication.
+- Migrate RPC server.
 
 ### What we're working on
-- Migrate from Go to Rust.
-- Integrate `Wasmer` in Rust.
-- Use Protocol Buffers for peer-to-peer communication.
-- Set up our own bootstrap node.
+- Migrate P2P server.
+- Forward messages from RPC server to Execution module.
+- Support `create_live_object` operation.
+- Support `execute_live_object` operation.
